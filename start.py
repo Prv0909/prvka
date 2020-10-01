@@ -34,4 +34,4 @@ async def timer(ctx, seconds):
     except ValueError:
         await ctx.send('You must enter a number!')	    	
 	    	    			
-client.run('NzU4OTU4OTA5MTg4MDc5NjM5.X22hkA.rBz5yWSqYR55z2-ijkQ60digelk')
+client.run('NzU4OTU4OTA5MTg4MDc5NjM5.X22hkA.Adl8Ob31R3K1KnuvY64e3eYPCT4')
